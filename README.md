@@ -25,7 +25,7 @@ When I'm not coding, you can find me diving into **innovation** and **tech strat
 - Developing an AI-driven **rehabilitation app** based on **pose estimation**.
 
 ## 📢 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ahmadzeinalwafi)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-zein-al-wafi)
 - [Website](https://ahmadzeinalwafi.github.io)
 - Email: [ahmadzeinalwafi@outlook.com](mailto:ahmadzeinalwafi@outlook.com)
 
