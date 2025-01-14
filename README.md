@@ -27,7 +27,7 @@ When I'm not coding, you can find me diving into **innovation** and **tech strat
 ## 📢 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ahmadzeinalwafi)
 - [Website](https://ahmadzeinalwafi.github.io)
-- Email: [your.email@example.com](mailto:ahmadzeinalwafi@outlook.com)
+- Email: [ahmadzeinalwafi@outlook.com](mailto:ahmadzeinalwafi@outlook.com)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadzeinalwafi&show_icons=true&theme=radical)
