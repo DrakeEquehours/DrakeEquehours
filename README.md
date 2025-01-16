@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmad Zein Al Wafi👋
 
 ## About Me
-I'm a **Machine Learning Architect** and **MLOps Engineer** with a passion for solving real-world problems using AI and computer vision. I have experience leading cutting-edge projects in **Smart Campus Systems**, **Smart Tourism**, and **Robotics**. My expertise spans **TensorFlow**, **Docker**, **Scikit Learn**, and various advanced tools in the AI and MLOps ecosystem. 
+I'm a **Machine Learning Architect** and **MLOps Engineer** with a passion for solving real-world problems using AI and computer vision. I have experience leading cutting-edge projects in **Smart Campus Systems**, **Smart Tourism**, and **Robotics**. My expertise spans **TensorFlow**, **Docker**, **Scikit Learn**, and various advanced tools in the AI and MLOps ecosystem. I firmly believe that the true power of artificial intelligence innovation lies not solely in crafting machine learning models but in creating a comprehensive experience ecosystem that seamlessly integrates every aspect of applications.
 
 When I'm not coding, you can find me diving into **innovation** and **tech strategy** to shape the future of AI-driven solutions.
 
