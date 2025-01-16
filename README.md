@@ -35,7 +35,8 @@ When I'm not coding, you can find me diving into **innovation** and **tech strat
 ## 🌱 Current Focus
 - Researching on AI solutions in various domain.
 - Scaling AI-driven solutions to the business domain.
-- Making open-source project and help community
+- Making open-source project (still developing device management system for IoT, you can check the repository)
+- Helping community, focusing in Dicoding as External Reviewer
 
 ### 🌟 Fun Fact
 I enjoy solving problems that lie at the intersection of **AI** and **real-world impact**—whether it’s a **Profit** or a **Non-Profit**!
