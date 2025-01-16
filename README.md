@@ -21,8 +21,8 @@ When I'm not coding, you can find me diving into **innovation** and **tech strat
 ## 🏆 Highlights
 - Tech Lead for **Kedaireka Funding 2023** in **Innovation for Smart Tourism**.
 - Architected a **fully containerized MLOps Ecosystem** for SPARKA.
-- Published research on **Study of Modern Activation Functions** on Multi-Label CNNs.
-- Developing an AI-driven **rehabilitation app** based on **pose estimation**.
+- Published research on [**Study of Modern Activation Functions**](https://journal.uad.ac.id/index.php/JITEKI/article/view/29540) on Multi-Label CNNs.
+- Architecting an AI-driven [**rehabilitation app**](https://www.journal.sekawan-org.id/index.php/jtim/article/view/415) based on **pose estimation**.
 
 ## 📢 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ahmad-zein-al-wafi)
