@@ -19,7 +19,7 @@ When I'm not coding, you can find me diving into **innovation** and **tech strat
 - **Cloud & DevOps**: Google Cloud, Jenkins
 
 ## 🏆 Highlights
-- Tech Lead for **Kedaireka Funding 2023** in **Innovation for Smart Tourism**.
+- Tech Lead for [**Kedaireka Funding 2023**](https://unnes.ac.id/ikuti-unnes-prigel-mahasiswa-kembangkan-produk-kecerdasan-buatan/#:~:text=Ahmad%20Zein%20Al%20Wafi.) in **Innovation for Smart Tourism**.
 - Architected a **fully containerized MLOps Ecosystem** for SPARKA.
 - Published research on [**Study of Modern Activation Functions**](https://journal.uad.ac.id/index.php/JITEKI/article/view/29540) on Multi-Label CNNs.
 - Architecting an AI-driven [**rehabilitation app**](https://www.journal.sekawan-org.id/index.php/jtim/article/view/415) based on **pose estimation**.
