@@ -12,8 +12,8 @@ When I'm not coding, you can find me diving into **innovation** and **tech strat
 - Improving **Physiotherapy experience** using **Pose Estimation** application.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, Go, SQL
-- **Frameworks & Libraries**: TensorFlow, Keras, OpenCV, Flask, React.js, Next.js
+- **Languages**: Python, JavaScript, Go, SQL, C-Family
+- **Frameworks & Libraries**: TensorFlow, Keras, OpenCV, Flask, React.js, Next.js, Arduino
 - **Tools**: Docker, Kubernetes, RabbitMQ, MQTT, PostgreSQL, InfluxDB, MinIO
 - **Machine Learning**: TensorFlow.js, YOLO, Computer Vision, Natural Language Processing, Transformers
 - **Cloud & DevOps**: Google Cloud, Jenkins
