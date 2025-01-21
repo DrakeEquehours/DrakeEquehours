@@ -35,7 +35,7 @@ When I'm not coding, you can find me diving into **innovation** and **tech strat
 ## 🌱 Current Focus
 - Researching on AI solutions in various domain.
 - Scaling AI-driven solutions to the business domain.
-- Making non-profit project (still developing device management system for IoT, you can check the [repository](https://github.com/ahmadzeinalwafi/embbeded-sensor-dms-backend))
+- Working on non-profit project(for now) in developing device management system and monitoring for IoT
 - Helping community, focusing in Dicoding as [External Reviewer](https://www.dicoding.com/users/ahmadzeinalwafi/academies)
 
 ### 🌟 Fun Fact
